@@ -4,7 +4,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>GF40K_ImperiumWeaponry</defName>
     <label>weaponry cogitator node</label>
-    <description>The Weaponry Cogitator Node is a special module used with an advanced research table to explore armament technologies of the Imperium of Man. According to the beliefs of the Mechanicus, all cogitators possess a highly intelligent Machine Spirit, but it does not approach that of true Artificial Intelligence. The node adheres to these principles while enabling weapon research.</description>
+    <description>Cogitator, or a Logic Engine is a sophisticated piece of technology, commonly used by the Adeptus Mechanicus for storing, processing and collecting large amounts of information. Cogitators vary from being purely mechanical in their design to using a combination of organic matter (i.e. - human brains) and liquids for processing power. Most of the cogitators use data-spools for interfacing, so their data processing capacity is rather limited. This particular device is equipped with a light-based neural pathway, which allows it to perform complex operations required to decrypt a selection of ancient STC fragments. They are held in a secure container within the device and should not be tampered with. This cogitator contains the materials necessary for manufacturing weapons, commonly used by the Imperium of Mankind.</description>
     <graphicData>
       <texPath>Things/Building/Misc/ImperiumWeaponry</texPath>
 			<shaderType>CutoutComplex</shaderType>

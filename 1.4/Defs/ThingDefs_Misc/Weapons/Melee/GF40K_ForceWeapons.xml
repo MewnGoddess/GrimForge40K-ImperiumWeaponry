@@ -79,8 +79,8 @@
 	
 	<ThingDef ParentName="GF40K_BaseMeleeForce_Oversize">
 		<defName>GF40K_ForceHalberd</defName>
-		<label>force halberd</label>
-		<description>The Force Halberd is a finely crafted polearm with a long, curved blade and a sturdy haft. Its blade emits an aura of psychic might. Each strike taps into the wielder's psychic energies, enhancing their innate psychic abilities. In skilled hands, it becomes a devastating weapon, slicing through foes and unlocking untold mental potential.</description>
+		<label>nemesis force halberd</label>
+		<description>This type of Force weapon is as ancient in it's design and principle and as dangerous, as Grey Knights themselves. Nemesis force halberd is a heavy polearm, consisting of an adamantium haft and a razor-sharp blade atop of it. It grants its user an advantage of extra reach, as it can be easily weild by a Grey Knight even using one hand.n\n\Nemesis force weapons are incredibly rare, because of how difficult they are to manufacture. However, their ability to channel and project the mental energies of a psyker makes them an invaluable tool, especially when used against daemonic entities.</description>
 		<graphicData>
 			<texPath>Things/Item/Equipment/WeaponMelee/ForceHalberd</texPath>
 			<drawSize>1.5</drawSize>
@@ -118,7 +118,7 @@
 	
 	<ThingDef ParentName="GF40K_BaseMeleeForce_Oversize">
 		<defName>GF40K_ForceStaff</defName>
-		<label>force staff</label>
+		<label>nemesis warding staff</label>
 		<description>A masterpiece of techno-sorcery and esoteric artifice, the Force Staff embodies the essence of the Omnissiah's divine power. Crafted with utmost precision, this melee weapon resonates with psychic energies, amplifying the psionic potential of its bearer. As it crackles with an iridescent glow, the Force Staff becomes an extension of the mind, channeling the latent psychic energies to new heights. In the hands of a skilled psion, this staff transforms into an instrument of both defense and offense, capable of unleashing devastating psionic waves that rend the fabric of reality itself.</description>
 		<graphicData>
 			<texPath>Things/Item/Equipment/WeaponMelee/ForceStaff</texPath>
