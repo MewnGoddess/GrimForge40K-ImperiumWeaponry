@@ -74,7 +74,7 @@
     <ThingDef ParentName="GF40K_BaseRangedLaser">
         <defName>GF40K_LaserPistol</defName>
         <label>laspistol</label>
-        <description>The Laspistol is a compact and dependable sidearm that projects a searing energy beam with admirable velocity and potent armor-piercing capabilities. As a trusty companion in the heat of battle, it ensures that soldiers can respond to threats with speed and accuracy. Whether for personal defense or as a finishing tool in close-quarters encounters, the Laspistol's energetic fury serves as a deadly reminder of its wielder's resolve.</description>
+        <description>The laspistol is a smaller, more compact, pistol-version of the lasgun. They are the default firearms of Imperial officers who do not have access to more expensive equipment. A laspistol does not have anywhere near the range of the lasgun, as the power of the las-bolt dissipates into the atmosphere after only a short distance. However, within its limited range, it has the same devastating result as a lasgun, producing an explosion upon contact with a target. The laspistol lacks the lasgun's selective fire options, having only the ability to fire single shots. The limited range of the weapon makes it primarily used for gaining an extra attack in close combat, and actually shooting the gun is sometimes foregone in favour of this attack. Laspistols are mainly used by Imperial Guard Officers and advisers, including Commissars, Techpriest Enginseers and Sanctioned Psykers.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Laser/LasPistol</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -179,8 +179,8 @@
 	
     <ThingDef ParentName="GF40K_BaseRangedLaser">
         <defName>GF40K_LaserGun</defName>
-        <label>lasgun</label>
-        <description>The Lasgun is a steadfast staple of the battlefield that unleashes a relentless barrage of focused energy beams that breach armor with tenacious determination. Its moderate fire rate grants soldiers the ability to engage enemies in sustained firefights, making it a versatile weapon for both close-quarters combat and medium-range battles. Whether facing the hordes of the damned or heavily-armored adversaries, the Lasgun's unyielding energy beams herald the doom of any who dare oppose it.</description>
+        <label>kantrael pattern lasgun</label>
+        <description>Named for the forgeworld it is built on, Kantrael pattern lasgun is probably the most recognizeable piece of Astra Militarum equipment. It was developed specifically for Cadian Shock Troops and for Kantrael's Planetary Defence Force. This pattern features reinforced frame and built-in lugs for fixing a bayonet. It also features a top rail, designed for mounting scopes and small auspex equipment.\n\nThis type of lasgun is set to burst fire mode.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Laser/LasGun</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -270,7 +270,7 @@
 	
 	<ThingDef ParentName="BaseBullet">
 		<defName>GF40K_LaserGunBullet</defName>
-		<label>lasgun bullet</label>
+		<label>lasgun charge</label>
 		<graphicData>
 			<texPath>Things/Projectile/ChargeLanceShot</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -290,7 +290,7 @@
     <ThingDef ParentName="GF40K_BaseRangedLaser">
         <defName>GF40K_LaserSniper</defName>
         <label>long-las</label>
-        <description>The Long-las stands tall as a marksman's instrument of death, harnessing the might of a focused energy beam to pierce through armor with surgical precision. Its measured fire rate ensures each shot is carefully aimed, delivering devastating armor-piercing power over great distances. Whether dealing with heavily-armored foes or distant threats, the Long-las proves to be the vengeful judge of any battlefield, leaving a trail of scorched adversaries behind it.</description>
+        <description>The Long-Las is a sniper variant of the Lasgun. It features a significantly longer barrel, with the purpose for increase in accuracy and range, along with enhanced cooling. This, however negatively impacts the weapon's ergonomics and makes it rather difficult to use at close range.\n\nWithin the ranks of Astra Militarum the Long-Las, formally known as the Sniper Variant Lasgun, is commonly issued only to those Guardsmen, who possess the the necessary marksmanship skills and knowledge in stealth and scouting operations. Along with the lengthened barrel, it is also much quieter than other lasguns and features a flash suppressor to dampen the revealing flashes of its shots. However, the increased wear on the barrel from using the overpowered energy packs means more frequent barrel changes than is usually required for normal lasguns.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Laser/LasSniper</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -384,7 +384,7 @@
 	
 	<ThingDef ParentName="BaseBullet">
 		<defName>GF40K_LaserSniperBullet</defName>
-		<label>long-las bullet</label>
+		<label>long-las shot</label>
 		<graphicData>
 			<texPath>Things/Projectile/ChargeLanceShot</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -403,8 +403,8 @@
 		
     <ThingDef ParentName="GF40K_BaseRangedLaser">
         <defName>GF40K_LaserSMG</defName>
-        <label>hellgun</label>
-        <description>Also known as "Hot-shot lasgun", hellgun is a more potent and destructive, than a common lasgun, but it also possesses a few caveats, such as the necessity of more frequent maintenance and spare parts, as well as an enchanced powerpack, both are due to the increased power consumption and thus its components burning out much faster, compared to regular lasguns. Such combination of factors makes hellgun a powerful, but relatively weapon, issued to the elite units of Astra Militarum, such as Tempestus Scions, Cadian Kasrkin and Grenadiers of Death Korps of Krieg.</description>
+        <label>voss pattern lasgun</label>
+        <description>Voss Pattern lasgun is mostly indistinguishable from the Galaxy Pattern in the way terms of function, and was intended for Chimera and Leman Russ Battle Tank crews - Guardsmen who had need of ample firepower but need to minimize both size and weight. With all the firepower of its big brother but a shorter effective range, the Voss Pattern is essentially a Galaxy Pattern with a shortened barrel and a folding skeletal stock. Like the Galaxy Pattern, it's primarily seen used by the Armageddon Steel Legion and Catachan Jungle Fighters, being the favored Lasgun of the former. Uniquely, the Voss operates only on automatic.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Laser/LasSubMachineGun</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -496,7 +496,7 @@
 	
 	<ThingDef ParentName="BaseBullet">
 		<defName>GF40K_LaserSMGBullet</defName>
-		<label>laser SMG shot</label>
+		<label>laser shot</label>
 		<graphicData>
 			<texPath>Things/Projectile/ChargeLanceShot</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -514,8 +514,8 @@
 		
     <ThingDef ParentName="GF40K_BaseRangedLaser">
         <defName>GF40K_LaserCarabine</defName>
-        <label>lascarbine</label>
-        <description>The Lascarbine is a compact yet lethal weapon that channels a concentrated energy beam, surging through enemy defenses with remarkable speed and armor-piercing prowess. Offering a balanced blend of mobility and firepower, this weapon excels in mid-range engagements, ensuring swift and calculated strikes against both armored targets and agile adversaries. In the hands of a skilled user, the Lascarbine dances with deadly grace, leaving a trail of defeated foes in its wake.</description>
+        <label>Lucius no.98 Pattern Lasgun</label>
+        <description>Made famous by the Death Korps of Krieg, the Lucius Pattern - sometimes called the Number 98 - is designed for brute force; its power pack operates at a higher charge than many other more common patterns of Lasgun. This gives the weapon more punch, but drains the powerpack after only 25 shots. Another downside: Unlike other Lasguns, the Lucius is semi-automatic only, with a slower recycle rate than other Lasguns. It was judged by the Kriegers that the extra stopping power of the Lucius pattern essentially makes up for this drawback. The barrel of the Lucius is its most distinctive feature; it has a series of heatsinks to dissipate the excessive heat buildup the increased energy output of the Lucius Pattern creates under sustained fire. Even with the heatsinks, the Lucius is prone to dangerous overheating, a risk that the Kriegers consider to be insignificant.This particular weapon is a holy relic of the Imperium of Mankind. It was sanctified in one of the countless temples of Ecclesiarchy and now is a potent weapon, capable of bringing the Emperor's light to heretics and xenos alike, in more ways than one.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Laser/LasCarabine</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -607,7 +607,7 @@
 	
 	<ThingDef ParentName="BaseBullet">
 		<defName>GF40K_LaserCarabineBullet</defName>
-		<label>lascarbine bullet</label>
+		<label>lasgun shot</label>
 		<graphicData>
 			<texPath>Things/Projectile/ChargeLanceShot</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
