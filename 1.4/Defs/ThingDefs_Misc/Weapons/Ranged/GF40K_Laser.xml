@@ -403,8 +403,8 @@
 		
     <ThingDef ParentName="GF40K_BaseRangedLaser">
         <defName>GF40K_LaserSMG</defName>
-        <label>laser SMG</label>
-        <description>The Las-SMG is a rapid-fire marvel that employs a rapid succession of focused energy beams that effortlessly slice through armor and overwhelm foes with sheer volume. Unleashing a maelstrom of energy, this close-quarters weapon excels in dealing with tightly-packed enemy formations and armored targets alike. In the hands of a skilled operator, the Las-SMG becomes an unstoppable force, leaving enemies obliterated by the relentless storm of searing energy.</description>
+        <label>hellgun</label>
+        <description>Also known as "Hot-shot lasgun", hellgun is a more potent and destructive, than a common lasgun, but it also possesses a few caveats, such as the necessity of more frequent maintenance and spare parts, as well as an enchanced powerpack, both are due to the increased power consumption and thus its components burning out much faster, compared to regular lasguns. Such combination of factors makes hellgun a powerful, but relatively weapon, issued to the elite units of Astra Militarum, such as Tempestus Scions, Cadian Kasrkin and Grenadiers of Death Korps of Krieg.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Laser/LasSubMachineGun</texPath>
             <graphicClass>Graphic_Single</graphicClass>
