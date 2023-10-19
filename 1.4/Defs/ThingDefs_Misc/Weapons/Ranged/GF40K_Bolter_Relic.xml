@@ -37,7 +37,7 @@
     <ThingDef ParentName="GF40K_BaseRangedBoltRelic">
         <defName>GF40K_BoltPistolRelic</defName>
         <label>relic bolt pistol</label>
-        <description>The Relic Bolt Pistol, a coveted treasure of ancient times, embodies the pinnacle of craftsmanship and awe-inspiring power. Forged from forgotten rites and blessed by the Omnissiah's touch, this legendary sidearm carries the legacy of battles long past.</description>
+        <description>Bolt Pistol is a sidearm variant of a boltgun, commonly used by the Adeptus Astartes and other Imperial forces such as the Orders Militant of the Adepta Sororitas and certain members of the Astra Militarum and the Imperial Navy. As a Bolt Weapon, the Bolt Pistol is favoured over the Laspistol due to its improved killing ability, although it is less reliable and generally holds fewer shots in its magazine than a Laspistol - only 6 to 10 rounds of standard Bolter Ammunition, each weighing about 0.08 kilograms and with a diameter of .75 calibre (19.05 millimetres).\n\n This particular weapon was sanctified in one of the Ecclesiarchy temples, making it a holy relic of the Imperium. Still, this weapon is more than capable of bringing the Emperor's mercy to his foes.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Relic/BoltPistol_relic</texPath>
 			<drawSize>1</drawSize>
@@ -167,7 +167,7 @@
     <ThingDef ParentName="GF40K_BaseRangedBoltRelic">
         <defName>GF40K_BoltGunRelic</defName>
         <label>relic boltgun</label>
-        <description>The Relic Bolt Gun, an artifact revered by the Mechanicus, emits the grandeur of ancient mastery. Enveloped in myths of glorious victories, this legendary weapon possesses the mightiest of traits. Augmented with the ability to hold two rounds within its chamber, it launches 0.75 caliber projectiles that eviscerate all who stand in defiance.</description>
+        <description>The bolter, also called a boltgun, and its variants are some of the most powerful, hand-held, ballistic anti-personnel weaponry in use by the military forces of the Imperium of Man. The bolter is a large .75 calibre assault weapon. It has a much greater mass than most standard-issue Imperial weapons such as the Lasgun, although it is slightly shorter in length. Unlike most Imperial ranged infantry weapons, it lacks a stock, resulting in a grip much like a pistol's or a submachine gun's. The major advantage of the bolter in comparison to the ubiquitous Lasgun is its stopping power, as the bolt's kinetic force and explosive head can deliver much more damage on a target than the coherent light beam from a Lasgun.\n\n This particular weapon was sanctified in one of the Ecclesiarchy temples, making it a holy relic of the Imperium. Still, this weapon is more than capable of bringing the Emperor's mercy to his foes.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Relic/Boltgun_relic</texPath>
         </graphicData>
@@ -296,7 +296,7 @@
     <ThingDef ParentName="GF40K_BaseRangedBoltRelic">
         <defName>GF40K_BoltSniperRelic</defName>
         <label>relic bolt sniper rifle</label>
-        <description>The Relic Bolt Sniper Rifle is a sacred relic among sharpshooters that embodies the zenith of marksmanship and deadly precision. With an expanded magazine that cradles two lethal 0.75 caliber rounds, its bullets pierce armor and flesh alike.</description>
+        <description>The Stalker Bolter is a variant of the standard Godwyn Mark Vb Pattern Bolter Bolter. It is modified with an elongated barrel and M40 Targeter System range-finding scope to greatly increase its range and is used by the Space Marines in the role of a precision assault rifle or as a highly-accurate sniper weapon.\n\n This particular weapon was sanctified in one of the Ecclesiarchy temples, making it a holy relic of the Imperium. Still, this weapon is more than capable of bringing the Emperor's mercy to his foes.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Relic/SniperBoltgun_relic</texPath>
         </graphicData>

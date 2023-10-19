@@ -3,7 +3,7 @@
     <ThingDef ParentName="BaseHumanMakeableGun">
         <defName>GF40K_Flamer</defName>
         <label>flamer</label>
-        <description>The Flamer is a instrument of divine purification that embodies the righteous fury of holy cleansing. It unleashes an unyielding torrent of fire, leaving a trail of devastation in its wake. The intense jet of liquid fire engulfs the battlefield, making escape nearly impossible for its enemies. This sacred weapon offers fiery retribution to those deemed heretics and abominations, delivering swift justice with its relentless blaze.</description>
+        <description>The Flamer is any type of incendiary weapon that sprays an area with an extremely flammable liquid/gas known collectively as Prometheum, burning everything it sticks on. It is a short-range weapons, designed to be brutally effective against unarmoured targets and is ideal for situations that require crowd control. It is also a very useful tool in situations that require clearing out reinforced positions, such as trenches, pillboxes and bunkers.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Special/Flamer</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -118,7 +118,7 @@
 	
 	<VFECore.ExpandableProjectileDef ParentName="BaseBullet">
 		<defName>GF40K_FlamerBullet</defName>
-		<label>flamer's flame</label>
+		<label>flame</label>
 		<thingClass>VFECore.FlamethrowProjectile</thingClass>
 		<graphicData>
 			<texPath>Things/Projectile/Substitute/Proj_HeavyFlamer</texPath>

@@ -79,7 +79,7 @@
     <ThingDef ParentName="GF40K_BaseRangedPlasma">
         <defName>GF40K_PlasmaPistol</defName>
         <label>plasma pistol</label>
-        <description>The Plasma Pistol, an epitome of devastating firepower, unleashes projectiles with unparalleled armor-piercing capabilities. Upon impact, its rounds generate scorching heat and release an electromagnetic pulse, rendering mechanical adversaries helpless in its wake. With a focus on close-to-medium-range engagements, this weapon is a formidable force to be reckoned with, capable of reducing even the most heavily-armored foes to smoldering ruins.</description>
+        <description>Kronos Mark III Pattern plasma pistol is a sized-down variant of an Imperial plasma gun. Despite it's size, it is just as dangerous (both to the target and the user) as it's bigger counterpart. The plasma, when it is being charged, is compressed to what is essentially a a dense gas in order to increase heat retention. The miniature fusion reactor within the weapon is "breached" for a fraction of a second and the fragment of plasma is driven through a narrow tube in a large ferrometalic block, which is supercooled to avoid weapon exploding in the user's hands. Upon reaching the muzzle, the plasma charge is moving at such a high speed and pressure, that should it touch anything - the results would be catastrophic, thus the plasma bolt is propelled by an electromagnetic field.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Plasma/PlasmaPistol</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -195,7 +195,7 @@
     <ThingDef ParentName="GF40K_BaseRangedPlasma">
         <defName>GF40K_PlasmaGun</defName>
         <label>plasma gun</label>
-        <description>The Plasma Gun is a rifle-sized Plasma Weapon capable of firing rounds that tear through armor with unyielding force, engulfing the battlefield in scorching heat and electromagnetic energy. Expertly crafted for medium-to-long-range encounters, this weapon becomes the harbinger of doom for any advancing enemy force.</description>
+        <description>Ragefire Pattern plasma gun, as any other type of a plasma gun in the Imperium of Mankind is an uncommon weapon, even in the ranks of the Imperial Guard or Adeptus Astartes, most extant plasma guns are hundreds if not thousands of years old. The plasma, when it is being charged, is compressed to what is essentially a a dense gas in order to increase heat retention. The miniature fusion reactor within the weapon is "breached" for a fraction of a second and the fragment of plasma is driven through a narrow tube in a large ferrometalic block, which is supercooled to avoid weapon exploding in the user's hands. Upon reaching the muzzle, the plasma charge is moving at such a high speed and pressure, that should it touch anything - the results would be catastrophic, thus the plasma bolt is propelled by an electromagnetic field.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Plasma/PlasmaGun</texPath>
             <graphicClass>Graphic_Single</graphicClass>

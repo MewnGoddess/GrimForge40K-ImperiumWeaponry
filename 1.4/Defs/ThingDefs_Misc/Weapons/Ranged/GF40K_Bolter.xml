@@ -70,7 +70,7 @@
     <ThingDef ParentName="GF40K_BaseRangedBolt">
         <defName>GF40K_BoltPistol</defName>
         <label>bolt pistol</label>
-        <description>The Bolt Pistol unleashes a relentless storm of self-propelled 0.75 caliber projectiles, each carrying the power to rend limbs and shatter bones upon impact. A favored choice among the Imperium's military forces, the Bolt Pistol serves as a powerful and utilitarian sidearm. Its deadly precision and versatility have earned it a place of honor in countless battles across the galaxy.</description>
+        <description>Bolt Pistol is a sidearm variant of a boltgun, commonly used by the Adeptus Astartes and other Imperial forces such as the Orders Militant of the Adepta Sororitas and certain members of the Astra Militarum and the Imperial Navy. As a Bolt Weapon, the Bolt Pistol is favoured over the Laspistol due to its improved killing ability, although it is less reliable and generally holds fewer shots in its magazine than a Laspistol - only 6 to 10 rounds of standard Bolter Ammunition, each weighing about 0.08 kilograms and with a diameter of .75 calibre (19.05 millimetres).</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Bolter/BoltPistol</texPath>
 			<drawSize>1</drawSize>
@@ -199,7 +199,7 @@
     <ThingDef ParentName="GF40K_BaseRangedBolt">
         <defName>GF40K_BoltGun</defName>
         <label>boltgun</label>
-        <description>The Bolt Gun roars with ferocity as it launches self-propelled 0.75 caliber munitions that detonate upon contact, leaving a trail of devastation. Capable of dismembering entire limbs, this fearsome weapon strikes terror into the hearts of enemies, becoming a symbol of relentless destruction on the battlefield.</description>
+        <description>The bolter, also called a boltgun, and its variants are some of the most powerful, hand-held, ballistic anti-personnel weaponry in use by the military forces of the Imperium of Man. The bolter is a large .75 calibre assault weapon. It has a much greater mass than most standard-issue Imperial weapons such as the Lasgun, although it is slightly shorter in length. Unlike most Imperial ranged infantry weapons, it lacks a stock, resulting in a grip much like a pistol's or a submachine gun's. The major advantage of the bolter in comparison to the ubiquitous Lasgun is its stopping power, as the bolt's kinetic force and explosive head can deliver much more damage on a target than the coherent light beam from a Lasgun.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Bolter/BoltGun</texPath>
 			<drawSize>1</drawSize>
@@ -329,8 +329,8 @@
 
     <ThingDef ParentName="GF40K_BaseRangedBolt">
         <defName>GF40K_BoltSniper</defName>
-        <label>bolt sniper rifle</label>
-        <description>A masterful instrument of death, the Bolt Sniper Rifle employs self-propelled 0.75 caliber projectiles, each engineered to deliver sheer destructive force. With a focus on long-range engagements, this weapon can sever limbs and leave its prey in disarray.</description>
+        <label>stalker bolter</label>
+        <description>The Stalker Bolter is a variant of the standard Godwyn Mark Vb Pattern Bolter Bolter. It is modified with an elongated barrel and M40 Targeter System range-finding scope to greatly increase its range and is used by the Space Marines in the role of a precision assault rifle or as a highly-accurate sniper weapon.\n\n This particular weapon was sanctified in one of the Ecclesiarchy temples, making it a holy relic of the Imperium. Still, this weapon is more than capable of bringing the Emperor's mercy to his foes.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Bolter/SniperBoltGun</texPath>
 			<drawSize>1.1</drawSize>
@@ -471,7 +471,7 @@
 	
     <ThingDef ParentName="BaseBullet">
         <defName>GF40K_075BoltBullet</defName>
-        <label>.75 bolt bullet</label>
+        <label>.75 bolt round</label>
         <thingClass>Projectile_Explosive</thingClass>
         <category>Projectile</category>
         <graphicData>
@@ -491,7 +491,7 @@
 	
     <ThingDef ParentName="BaseBullet">
         <defName>GF40K_075SniperBoltBullet</defName>
-        <label>.75 bolt bullet</label>
+        <label>.75 bolt round</label>
         <thingClass>Projectile_Explosive</thingClass>
         <category>Projectile</category>
         <graphicData>

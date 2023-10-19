@@ -39,7 +39,7 @@
     <ThingDef ParentName="GF40K_RelicBaseRangedGauss">
         <defName>GF40K_RelicGalvanicRifle</defName>
         <label>relic galvanic rifle</label>
-        <description>The Galvanic Rifle, a marvel of Mechanicus ingenuity, resembles ancient flintlock guns from Mars. Its handcrafted, antique body conceals advanced galvanic servitor-bullets that deliver deadly electric force. With unparalleled armor-piercing capabilities, the Galvanic Rifle's shots can pierce through multiple adversaries in a haunting display of relentless precision and destructive power.</description>
+        <description>Galvanic Weapons are a type of weapon used by the Adeptus Mechanicus. These weapons fire electro-galvanically driven projectiles that can damage and pierce both enemy infantry and armor alike. Galvanic Rifles are a type of weapon used by Adeptus Mechanicus Skitarii. The favored weapon of Skitarii Rangers, it is modeled after the flintlock guns of Mars' past and the current model of the weapon, known as the Mk IV Arkhan, are exquisitely hand-crafted but no less deadly. Given that they fire a projectile with electro-magnetic energy, they are essentially a variant of a railgun, though obviously less powerful due to using a battery instead of a reactor.\n\n This particular master-crafted weapon has been sanctified in one of the temples of Ecclesiarchy and is a holy relic of the Imperium.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Relic/GalvanicRifle_relic</texPath>
             <graphicClass>Graphic_Single</graphicClass>

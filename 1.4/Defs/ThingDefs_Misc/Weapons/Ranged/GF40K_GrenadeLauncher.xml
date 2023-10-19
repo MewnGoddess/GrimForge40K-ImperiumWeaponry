@@ -56,7 +56,7 @@
     <ThingDef ParentName="GF40K_BaseRangedGrenade">
         <defName>GF40K_GrenadeLauncher</defName>
         <label>grenade launcher</label>
-        <description>The Grenade Launcher is a grim herald of devastation that hurls high-explosive munitions with unyielding force. Assembled to serve as a deliverer of destruction on the battlefield, this weapon launches explosive ordnance with deadly accuracy. Its thunderous impact sweeps the ground with fiery chaos, leaving only ruin and despair in its wake.</description>
+        <description>The grenade launcher is a light, man-portable weapon capable of firing small explosive charges. It is primarily employed by the Imperial Guard, with almost every trooper squad featuring at least one of them. Grenade launchers are a common weapon used by Imperial Guard infantry squads thanks to their ability to launch grenades greater distances and with more accuracy than can be thrown. Unlike Missile Launchers, the explosive projectiles fired from a Grenade Launcher are not self-propelled, instead taking a ballistic trajectory once fired. Their primary duty is to lay down suppressive fire and destroy light vehicles and buildings.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Special/GrandeLuncher</texPath>
             <graphicClass>Graphic_Single</graphicClass>

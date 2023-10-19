@@ -39,7 +39,7 @@
     <ThingDef ParentName="GF40K_BaseRangedPlasmaRelic">
         <defName>GF40K_PlasmaPistolRelic</defName>
         <label>relic plasma pistol</label>
-        <description>The Plasma Pistol Relic is an icon of ancient techno-sorcery. This legendary weapon unleashes beams of superheated plasma that can incinerate even the most heavily armored adversaries. To ensure the preservation of such potent technology, Relic Plasma Pistols are rarely mass-produced and are only entrusted to the most skilled and loyal warriors of the Imperium.</description>
+        <description>Kronos Mark III Pattern plasma pistol is a sized-down variant of an Imperial plasma gun. Despite it's size, it is just as dangerous (both to the target and the user) as it's bigger counterpart. The plasma, when it is being charged, is compressed to what is essentially a a dense gas in order to increase heat retention. The miniature fusion reactor within the weapon is "breached" for a fraction of a second and the fragment of plasma is driven through a narrow tube in a large ferrometalic block, which is supercooled to avoid weapon exploding in the user's hands. Upon reaching the muzzle, the plasma charge is moving at such a high speed and pressure, that should it touch anything - the results would be catastrophic, thus the plasma bolt is propelled by an electromagnetic field./n/n This particular weapon was sanctified in one of the temples of Ecclesiarchy, making it a holy relic of the Imperium.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Relic/PlasmaPistol_relic</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -145,7 +145,7 @@
     <ThingDef ParentName="GF40K_BaseRangedPlasmaRelic">
         <defName>GF40K_PlasmaGunRelic</defName>
         <label>relic plasma gun</label>
-        <description>A marvel of deadly engineering, the Plasma Gun Relic harnesses the destructive power of superheated plasma to unleash devastation upon the enemies of the Imperium. When the Plasma Gun unleashes its scorching fury, the superheated bolts of plasma sear through armor and flesh with seething intensity, leaving only smoldering wreckage in their wake.</description>
+        <description>Ragefire Pattern plasma gun, as any other type of a plasma gun in the Imperium of Mankind is an uncommon weapon, even in the ranks of the Imperial Guard or Adeptus Astartes, most extant plasma guns are hundreds if not thousands of years old. The plasma, when it is being charged, is compressed to what is essentially a a dense gas in order to increase heat retention. The miniature fusion reactor within the weapon is "breached" for a fraction of a second and the fragment of plasma is driven through a narrow tube in a large ferrometalic block, which is supercooled to avoid weapon exploding in the user's hands. Upon reaching the muzzle, the plasma charge is moving at such a high speed and pressure, that should it touch anything - the results would be catastrophic, thus the plasma bolt is propelled by an electromagnetic field./n/n This particular weapon was sanctified in one of the temples of Ecclesiarchy, making it a holy relic of the Imperium.</description>
         <graphicData>
             <texPath>Things/Item/Equipment/WeaponRanged/Relic/PlasmaGun_relic</texPath>
             <graphicClass>Graphic_Single</graphicClass>
